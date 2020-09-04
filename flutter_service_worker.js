@@ -3,19 +3,29 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "430cf762f734d9ff351dad197b4b88ac",
+  "assets/AssetManifest.json": "691ef02979a9efe15be92dd46c1ce339",
+"assets/assets/github.png": "8a116e0acf74c73dcee645dae9687ec8",
+"assets/assets/gmail.png": "b9ddd9855c0240558874d356aa377ec4",
+"assets/assets/instagram.png": "6a9fb2ed267819dd5076b8865f849eeb",
+"assets/assets/linkedin.png": "a21de2045598a5f438463b12ceac5047",
+"assets/assets/loader.png": "f73099c91fcdcfc4e3c57f5007321904",
 "assets/assets/profilepic.jpg": "e3fd42b00b49bdc8a28f3c4643993d0a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
-"assets/NOTICES": "161ea1c2b6ae9cffb39c851fa768a643",
+"assets/github.png": "8a116e0acf74c73dcee645dae9687ec8",
+"assets/gmail.png": "b9ddd9855c0240558874d356aa377ec4",
+"assets/instagram.png": "6a9fb2ed267819dd5076b8865f849eeb",
+"assets/linkedin.png": "a21de2045598a5f438463b12ceac5047",
+"assets/loader.png": "f73099c91fcdcfc4e3c57f5007321904",
+"assets/NOTICES": "387ad5c1c8656f2dc75c526c9dee4c9c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/profilepic.jpg": "e3fd42b00b49bdc8a28f3c4643993d0a",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "2a38d0355d6988bfa639c7c25dfe4679",
-"/": "2a38d0355d6988bfa639c7c25dfe4679",
-"main.dart.js": "48fd9f9c32ff20fcd4b259d53b741778",
+"favicon.png": "195fb3a73ef109e8c9ced514bf4f9c7a",
+"icons/Icon-192.png": "195fb3a73ef109e8c9ced514bf4f9c7a",
+"icons/Icon-512.png": "f665f82210a707dbba076f5c6dc589ae",
+"index.html": "95a3554853fbc43f0bfa887ada3f5208",
+"/": "95a3554853fbc43f0bfa887ada3f5208",
+"main.dart.js": "4110aa00c1b93620d425ea3b04200bed",
 "manifest.json": "93465fa57d4535dc57f667f4eb1b9304"
 };
 
