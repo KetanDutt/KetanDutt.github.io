@@ -25802,7 +25802,7 @@ o=s.gbE()
 n=p.a/1e6
 o=q===r?0:o/(q-r)*n
 s.vj(new G.Q_(r,q,!1,s.gCY(),n,o,C.q1))
-P.c4(P.dq(0,0,1),new G.Qt(m))},
+P.c4(P.dq(0,100,0),new G.Qt(m))},
 S:function(a,b){var s=null,r=H.d([new P.y(4279308561),new P.y(4281545523)],t.r8)
 return M.WB(C.k,M.mR(C.bf,K.rN(this.d,new G.Qr(this),U.nv("loader.png",50,50)),s,s,new S.dL(s,s,s,s,s,new T.hF(C.nR,C.nQ,C.hR,r,s,s),C.X),s,s,s))}}
 G.Qt.prototype={
